@@ -4,7 +4,7 @@
 This project is a basic Spring Boot application built to learn how to bootstrap a professional Java web service. It exposes a simple REST endpoint that returns a welcome message, and was deployed both locally and on a Google Cloud Platform Virtual Machine.
 
 ## How to Run Locally
-Make sure you have JDK 21 and Maven installed on your machine. Clone the repository, navigate into the project folder, and run the application with Maven. Once it starts, open your browser and go to http://localhost:8080/hello to see the response.
+Make sure you have JDK 21 and Maven installed on your machine. Clone the repository, navigate into the project folder, and run the application with Maven. Once it starts, open your browser and you can go to http://localhost:8080 to see the response.
 
 
 ## Endpoint
